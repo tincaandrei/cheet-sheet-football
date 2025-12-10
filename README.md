@@ -5,7 +5,7 @@ This project contains Jupyter notebooks that use the [`soccerdata`](https://pypi
 ### 1. Clone the repo
 
 ```bash
-git clone <YOUR-REPO-URL>
+git clone https://github.com/tincaandrei/cheet-sheet-football.git
 cd Soccerdata
 ```
 
